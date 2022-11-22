@@ -1,0 +1,5 @@
+Instalation: install app
+Functional: create new list with menu new list
+Interruption: App interrupted by incoming call
+Usability:Correct return at privious screen
+Security: App access to ersonal data
