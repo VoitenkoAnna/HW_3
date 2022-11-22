@@ -1,1 +1,5 @@
-Environment: Win 10 Chrome
+iEnvironment: Win 10 Chrome
+Title: Иконка Вайбер в блоке обратной связи не активна
+Steps: Открыть блок обратной связт
+Expected Result:Иконка Вайбер активна
+Actual Result:Иконка Вайбер не активна
